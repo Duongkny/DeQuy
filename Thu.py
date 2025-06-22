@@ -1,3 +1,2 @@
-print("Hello, World!")
-#Xuat ra man hinh
-print("Da tai ve tu dev 2")
+for i in range(5):
+    print("Hello, World!")
